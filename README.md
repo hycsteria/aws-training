@@ -1,5 +1,3 @@
-# aws-training
-
 # Cómo acceder por primera vez a tu cuenta de AWS.
 Debes acceder mediante este **enlace**
 https://871103910546.signin.aws.amazon.com/console.
@@ -14,6 +12,7 @@ Dentro de AWS:
  - Por último, se muestra una foto de las opciones que debes tener marcadas en la instalación de Cloud9
  ![opciones_cloud9](docs/images/opciones_cloud9.png)
 > Se debe marcar la opción que aparece en la captura subrayada en **amarillo**, puesto que es **gratuita**.
+
 
 
 
