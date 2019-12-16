@@ -7,6 +7,10 @@ Services used: Lambda, DynamoDB, S3.
 You shall call the api https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json every day at 8:00 (cloudwatch event), through a Lambda function and persist the obtained result both in S3,
 in a json format and in DynamoDB (primary key field id, sort key dtstart).
 
+## Account AWS
+
+Please sign to AWS using https://871103910546.signin.aws.amazon.com/console 
+
 ## Tecnical Requirements
 
 - Always use Dublin Region (eu-west-1)
