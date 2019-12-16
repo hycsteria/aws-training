@@ -17,3 +17,4 @@ Please sign to AWS using https://871103910546.signin.aws.amazon.com/console
 - Every resource you create shall start with your username as prefix.
 - When you write your files to s3, please use the bucket "everis-dna-exercice1" and your username as prefix.
 - Use boto3 to interact with AWS services
+- Use rol "LambdaRol_Exercice1" to associate it to the lambda
