@@ -12,3 +12,4 @@ in a json format and in DynamoDB (primary key field id, sort key dtstart).
 - Always use Dublin Region (eu-west-1)
 - Every resource you create shall start with your username as prefix.
 - When you write your files to s3, please use the bucket "everis-dna-exercice1" and your username as prefix.
+- Use boto3 to interact with AWS services
