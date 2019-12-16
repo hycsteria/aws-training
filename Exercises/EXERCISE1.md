@@ -1,4 +1,4 @@
-#  Excerice 1: Store the events happening in Madrid in the next 100 days
+#  Exercice 1: Store the events happening in Madrid in the next 100 days
 
 Services used: Lambda, DynamoDB, S3.
 
